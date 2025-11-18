@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-This is version 1.1 of the Responsible Research Metrics Self-Study module. The module was written by the Bibliometrics Team at the University of Southampton Library in 2024 and version 1 released in February 2025, update to version 1.1 made in October 2025
+This is a course tailored for Univerity of Reading researchers on Responsible metrics. This has been adapted from a module written by the Bibliometrics Team at the University of Southampton Library in 2024 and version 1 released in February 2025, update to version 1.1 made in October 2025. Reproduced under a CCBY licence. 
 
 The module team is;
 
@@ -22,6 +22,7 @@ Section 3;-
 -   Updates to the Way’s to use metrics & examples section to improve clarity 
 -   Adding a link to a test your knowledge quiz
 Section 4;-	Adding a link to a test your knowledge quiz
+
 
 
 
