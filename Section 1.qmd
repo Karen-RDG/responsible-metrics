@@ -5,7 +5,7 @@ format: html
 
 ## Section 1 - Responsible research metrics overview
 
-In this first section of University of Reading's training you will explore:
+In this first section of University of Reading's responsible metrics training you will explore:
 
 -   what metrics are in the context of research;
 -   the principles of responsible metrics;
